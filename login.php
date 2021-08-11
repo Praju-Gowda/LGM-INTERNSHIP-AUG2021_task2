@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SCHOLARLY SCHOOL</title>
-    <link rel="stylesheet" href="css/login.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="./font-awesome-4.7.0/css/font-awesome.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 </head>
@@ -16,7 +16,7 @@
     margin:0;
     padding:0;
     text-align: center;
-    background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(images/home.jpg);
+    background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(home.jpg);
     background-size: cover;
     background-position: center;
     font-family:sans-serif;
