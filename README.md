@@ -4,7 +4,7 @@
 
 #This is a Task-3 done during the internship at LET GROW MORE_August-2021.
 
-#Hosted Link: https://praju-gowda.github.io/LGM-INTERNSHIP-AUG2021_task2/ . . 
+#Hosted Link: https://praju-gowda.github.io/LGM-INTERNSHIP-AUG2021_task3/ . . 
 
 #linkdin post link: 
 
