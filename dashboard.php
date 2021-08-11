@@ -11,10 +11,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/home.css">
+    <link rel="stylesheet" href="home.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
-    <link rel="stylesheet" href="./css/font-awesome-4.7.0/css/font-awesome.css">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.css">
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="normalize.css">
     <title>Dashboard</title>
     <style>
@@ -29,7 +29,7 @@
     margin:0;
     padding:0;
     text-align: center;
-    background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(images/home.jpg);
+    background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(home.jpg);
     background-size: cover;
     background-position: center;
     font-family:sans-serif;
@@ -39,7 +39,7 @@
 <body>
         
     <div class="title">
-        <a href="dashboard.php"><img src="./images/logo1.png" alt="" class="logo" width="100px" height="100px"></a>
+        <a href="dashboard.php"><img src="logo1.png" alt="" class="logo" width="100px" height="100px"></a>
         <span class="heading">Dashboard</span>
         <a href="logout.php" style="color: white"><span class="fa fa-sign-out fa-2x">Logout</span></a>
     </div>
